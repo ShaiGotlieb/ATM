@@ -1,0 +1,10 @@
+C:\Users\Shai Gotlieb\source\repos\ATMAppSolution\ATMApp\bin\Debug\ATMApp.exe.config
+C:\Users\Shai Gotlieb\source\repos\ATMAppSolution\ATMApp\bin\Debug\ATMApp.exe
+C:\Users\Shai Gotlieb\source\repos\ATMAppSolution\ATMApp\bin\Debug\ATMApp.pdb
+C:\Users\Shai Gotlieb\source\repos\ATMAppSolution\ATMApp\obj\Debug\ATMApp.csprojResolveAssemblyReference.cache
+C:\Users\Shai Gotlieb\source\repos\ATMAppSolution\ATMApp\obj\Debug\ATMApp.ATMform.resources
+C:\Users\Shai Gotlieb\source\repos\ATMAppSolution\ATMApp\obj\Debug\ATMApp.Properties.Resources.resources
+C:\Users\Shai Gotlieb\source\repos\ATMAppSolution\ATMApp\obj\Debug\ATMApp.csproj.GenerateResource.Cache
+C:\Users\Shai Gotlieb\source\repos\ATMAppSolution\ATMApp\obj\Debug\ATMApp.csproj.CoreCompileInputs.cache
+C:\Users\Shai Gotlieb\source\repos\ATMAppSolution\ATMApp\obj\Debug\ATMApp.exe
+C:\Users\Shai Gotlieb\source\repos\ATMAppSolution\ATMApp\obj\Debug\ATMApp.pdb
